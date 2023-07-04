@@ -1,6 +1,6 @@
 import './App.css';
 import { AllRoutes } from './Routes/AllRoutes';
-import { Header, Footer, Card } from './components'
+import { Header, Footer } from './components'
 
 
 function App() {
